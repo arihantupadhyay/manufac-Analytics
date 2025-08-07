@@ -1,0 +1,17 @@
+.filters-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  @media (min-width: 768px) {
+    .filters-container {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+  
+  .filter-select {
+    flex: 1;
+  }
+  
