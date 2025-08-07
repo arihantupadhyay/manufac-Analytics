@@ -54,7 +54,7 @@ src/
 
 1. **Clone the repo**
    ```bash
-   git clone <your-repo-url>
+   git clone <[>](https://lighthearted-truffle-ca9b41.netlify.app)
    cd manufac-analytic-project
 
 
@@ -64,3 +64,9 @@ npm install
 
 # 3.Run the App
 npm run dev
+
+#4. Final LINK OF THE PROJECT
+
+   https://lighthearted-truffle-ca9b41.netlify.app
+
+   We use the netify app to run the  project
